@@ -1,0 +1,12 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+venv/
+saved_exports/
+saved_labels/
+saved_manifests/
+csv_queue.json
+fulfillment_history.csv
+warehouse.db
+warehouse.db.bak

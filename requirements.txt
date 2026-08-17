@@ -1,0 +1,6 @@
+streamlit
+sqlalchemy
+pandas
+requests
+python-dotenv
+pywin32; sys_platform == 'win32'
